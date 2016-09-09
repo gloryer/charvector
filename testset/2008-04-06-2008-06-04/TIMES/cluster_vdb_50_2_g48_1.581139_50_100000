@@ -1,0 +1,32 @@
+Clustering '/home/shuaili/charvector/testset/2008-04-06-2008-06-04/VECTOR/vdb_50_2_g48_1.581139_50_100000' 10.69112 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 10.69112 -M 10000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-04-06-2008-06-04/VECTOR/vdb_50_2_g48_1.581139_50_100000 -p /home/shuaili/charvector/testset/2008-04-06-2008-06-04/VECTOR/vdb_50_2_g48_1.581139_50_100000.param  >  /home/shuaili/charvector/testset/2008-04-06-2008-06-04/CLUSTER/cluster_vdb_50_2_g48_1.581139_50_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-04-06-2008-06-04/VECTOR/vdb_50_2_g48_1.581139_50_100000.param):
+N radii = 1, nPoints = 12
+R
+10.691120148
+Success probability
+0.899999976
+Dimension
+299
+R^2
+114.300003052
+Use <u> functions
+1
+k
+16
+m [# independent tuples of LSH functions]
+22
+L
+231
+W
+4.000000000
+T
+12
+typeHT
+3
+
+real	0m0.005s
+user	0m0.004s
+sys	0m0.000s
+Done clustering '/home/shuaili/charvector/testset/2008-04-06-2008-06-04/VECTOR/vdb_50_2_g48_1.581139_50_100000' 10.69112. Log: /home/shuaili/charvector/testset/2008-04-06-2008-06-04/TIMES/cluster_vdb_50_2_g48_1.581139_50_100000

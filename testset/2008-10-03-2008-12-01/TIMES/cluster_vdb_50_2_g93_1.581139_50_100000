@@ -1,0 +1,64 @@
+Clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000' 41.25167 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 41.25167 -M 10000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000 -p /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000.param  >  /home/shuaili/charvector/testset/2008-10-03-2008-12-01/CLUSTER/cluster_vdb_50_2_g93_1.581139_50_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000.param):
+N radii = 1, nPoints = 4
+R
+41.251670837
+Success probability
+0.899999976
+Dimension
+299
+R^2
+1701.699951172
+Use <u> functions
+1
+k
+16
+m [# independent tuples of LSH functions]
+22
+L
+231
+W
+4.000000000
+T
+4
+typeHT
+3
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.000s
+Done clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000' 41.25167. Log: /home/shuaili/charvector/testset/2008-10-03-2008-12-01/TIMES/cluster_vdb_50_2_g93_1.581139_50_100000
+Clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000' 41.25167 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 41.25167 -M 10000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000 -p /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000.param  >  /home/shuaili/charvector/testset/2008-10-03-2008-12-01/CLUSTER/cluster_vdb_50_2_g93_1.581139_50_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000.param):
+N radii = 1, nPoints = 4
+R
+41.251670837
+Success probability
+0.899999976
+Dimension
+299
+R^2
+1701.699951172
+Use <u> functions
+1
+k
+16
+m [# independent tuples of LSH functions]
+22
+L
+231
+W
+4.000000000
+T
+4
+typeHT
+3
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.000s
+Done clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g93_1.581139_50_100000' 41.25167. Log: /home/shuaili/charvector/testset/2008-10-03-2008-12-01/TIMES/cluster_vdb_50_2_g93_1.581139_50_100000

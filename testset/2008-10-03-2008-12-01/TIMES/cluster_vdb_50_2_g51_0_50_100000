@@ -1,0 +1,64 @@
+Clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000' 0 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 0 -M 10000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000 -p /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000.param  >  /home/shuaili/charvector/testset/2008-10-03-2008-12-01/CLUSTER/cluster_vdb_50_2_g51_0_50_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000.param):
+N radii = 1, nPoints = 19
+R
+0.000000000
+Success probability
+0.899999976
+Dimension
+299
+R^2
+0.000000000
+Use <u> functions
+1
+k
+6
+m [# independent tuples of LSH functions]
+7
+L
+21
+W
+4.000000000
+T
+19
+typeHT
+3
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+Done clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000' 0. Log: /home/shuaili/charvector/testset/2008-10-03-2008-12-01/TIMES/cluster_vdb_50_2_g51_0_50_100000
+Clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000' 0 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 0 -M 10000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000 -p /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000.param  >  /home/shuaili/charvector/testset/2008-10-03-2008-12-01/CLUSTER/cluster_vdb_50_2_g51_0_50_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000.param):
+N radii = 1, nPoints = 19
+R
+0.000000000
+Success probability
+0.899999976
+Dimension
+299
+R^2
+0.000000000
+Use <u> functions
+1
+k
+6
+m [# independent tuples of LSH functions]
+7
+L
+21
+W
+4.000000000
+T
+19
+typeHT
+3
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.000s
+Done clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g51_0_50_100000' 0. Log: /home/shuaili/charvector/testset/2008-10-03-2008-12-01/TIMES/cluster_vdb_50_2_g51_0_50_100000

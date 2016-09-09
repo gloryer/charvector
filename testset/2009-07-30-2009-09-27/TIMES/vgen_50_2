@@ -1,0 +1,559 @@
+
+real	0m0.000s
+user	0m0.000s
+sys	0m0.000s
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/246806033422458492355592~1.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/95141501822815686031424822~1.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/60529985896700831656125082408~1.java
+Merging parameters: 50, 2, 3
+Merging parameters: 50, 2, 3
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:947
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1569
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2420
+Line range used: All [0, 0]
+# basic vectors:12
+Total nodes > 1192 (some children of atomic nodes are skipped), # nodes in the Sq tree:431
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/83553954146401254607757649~1.java
+Line range used: All [0, 0]
+# basic vectors:9
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/424730925830266363804277782~1.java
+Moved steps = 194, merged vectors = 97
+# vectors:109, including must-gen nodes:12
+Total nodes > 1866 (some children of atomic nodes are skipped), # nodes in the Sq tree:760
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2874
+Line range used: All [0, 0]
+# basic vectors:39
+Total nodes > 2378 (some children of atomic nodes are skipped), # nodes in the Sq tree:897
+Merging parameters: 50, 2, 3
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/791798400878271456695423730~1.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/62897493503032762613996894~1.java
+Line range used: All [0, 0]
+Moved steps = 420, merged vectors = 210
+# vectors:249, including must-gen nodes:39
+# basic vectors:38
+Merging parameters: 50, 2, 3
+Moved steps = 432, merged vectors = 216
+# vectors:225, including must-gen nodes:9
+typeCount before init() = 299
+typeCount after init() = 299
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:816
+Line range used: All [0, 0]
+# basic vectors:11
+Total nodes > 1047 (some children of atomic nodes are skipped), # nodes in the Sq tree:383
+Total nodes > 3383 (some children of atomic nodes are skipped), # nodes in the Sq tree:1355
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/05027329385147313701041485940~1.java
+Merging parameters: 50, 2, 3
+Moved steps = 173, merged vectors = 87
+# vectors:98, including must-gen nodes:11
+Total counted terminals:17385
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/84067043412011964524343607823~1.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/345063579628031491420242~1.java
+typeCount before init() = 299
+typeCount after init() = 299
+Merging parameters: 50, 2, 3
+syntax error: 1.6
+syntax error: 2.46
+syntax error: 14.7
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:9
+Line range used: All [0, 0]
+# basic vectors:0
+Total nodes > 488 (some children of atomic nodes are skipped), # nodes in the Sq tree:239
+Total counted terminals:6265
+Moved steps = 1, merged vectors = 0
+# vectors:0, including must-gen nodes:0
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/70173058132281277190023051~1.java
+Merging parameters: 50, 2, 3
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2176
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2396
+typeCount before init() = 299
+typeCount after init() = 299
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/527265970077250303844835~1.java
+Total counted terminals:5243
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/296336099673219772791748712239~1.java
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Total nodes > 2 (some children of atomic nodes are skipped), # nodes in the Sq tree:0
+Moved steps = 1, merged vectors = 0
+# vectors:0, including must-gen nodes:0
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+# basic vectors:35
+Total nodes > 2650 (some children of atomic nodes are skipped), # nodes in the Sq tree:1003
+# basic vectors:94
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/11922970569150396262603~1.java
+Merging parameters: 50, 2, 3
+Total nodes > 7173 (some children of atomic nodes are skipped), # nodes in the Sq tree:2624
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1954
+Line range used: All [0, 0]
+# basic vectors:39
+Total nodes > 2368 (some children of atomic nodes are skipped), # nodes in the Sq tree:894
+Merging parameters: 50, 2, 3
+Moved steps = 719, merged vectors = 360
+# vectors:398, including must-gen nodes:38
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:4036
+Line range used: All [0, 0]
+Moved steps = 418, merged vectors = 209
+# vectors:248, including must-gen nodes:39
+# basic vectors:39
+Total nodes > 2321 (some children of atomic nodes are skipped), # nodes in the Sq tree:830
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/35481682438873255627~1.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/06058120978427830208009~1.java
+Merging parameters: 50, 2, 3
+Line range used: All [0, 0]
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2063
+# basic vectors:70
+Total nodes > 6029 (some children of atomic nodes are skipped), # nodes in the Sq tree:2211
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Moved steps = 397, merged vectors = 199
+# vectors:238, including must-gen nodes:39
+Total counted terminals:3056
+Moved steps = 512, merged vectors = 256
+# vectors:291, including must-gen nodes:35
+Line range used: All [0, 0]
+# basic vectors:19
+Total nodes > 2584 (some children of atomic nodes are skipped), # nodes in the Sq tree:1041
+Line range used: All [0, 0]
+Moved steps = 1229, merged vectors = 615
+# vectors:709, including must-gen nodes:94
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/17939894267864697469882624839~1.java
+# basic vectors:68
+Total nodes > 4700 (some children of atomic nodes are skipped), # nodes in the Sq tree:1790
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/55345683821941450207639~1.java
+Total counted terminals:3016
+Merging parameters: 50, 2, 3
+Line range used: All [0, 0]
+# basic vectors:64
+Total nodes > 3089 (some children of atomic nodes are skipped), # nodes in the Sq tree:1195
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:6363
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/38949622812510958485562~1.java
+Moved steps = 527, merged vectors = 264
+# vectors:283, including must-gen nodes:19
+Line range used: All [0, 0]
+Moved steps = 1091, merged vectors = 546
+# vectors:616, including must-gen nodes:70
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Total nodes > 2 (some children of atomic nodes are skipped), # nodes in the Sq tree:0
+Moved steps = 1, merged vectors = 0
+# vectors:0, including must-gen nodes:0
+Line range used: All [0, 0]
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/257946388786827676188249021~1.java
+# basic vectors:44
+Moved steps = 928, merged vectors = 464
+# vectors:532, including must-gen nodes:68
+# basic vectors:260
+Total nodes > 3638 (some children of atomic nodes are skipped), # nodes in the Sq tree:1423
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/51728192437081109896552~1.java
+Merging parameters: 50, 2, 3
+Moved steps = 617, merged vectors = 309
+# vectors:373, including must-gen nodes:64
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1536
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1557
+Line range used: All [0, 0]
+Total nodes > 17429 (some children of atomic nodes are skipped), # nodes in the Sq tree:6049
+# basic vectors:33
+Total nodes > 2328 (some children of atomic nodes are skipped), # nodes in the Sq tree:819
+Line range used: All [0, 0]
+# basic vectors:22
+Total nodes > 1890 (some children of atomic nodes are skipped), # nodes in the Sq tree:694
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/4627348651018634967136842~1.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/262558046871375463855711906~1.java
+Moved steps = 415, merged vectors = 208
+# vectors:241, including must-gen nodes:33
+Line range used: All [0, 0]
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2145
+Merging parameters: 50, 2, 3
+Moved steps = 779, merged vectors = 390
+# vectors:434, including must-gen nodes:44
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/508401432282753330137584007~1.java
+typeCount before init() = 299
+typeCount after init() = 299
+Moved steps = 356, merged vectors = 178
+# vectors:200, including must-gen nodes:22
+Total counted terminals:4018
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/22~1.java
+# basic vectors:57
+Merging parameters: 50, 2, 3
+syntax error: 353.19
+Total nodes > 8340 (some children of atomic nodes are skipped), # nodes in the Sq tree:3127
+syntax error: 1626.15
+Line range used: All [0, 0]
+# basic vectors:27
+Total nodes > 2680 (some children of atomic nodes are skipped), # nodes in the Sq tree:1066
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1664
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/28062010662927285956053339407386~1.java
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Total nodes > 2 (some children of atomic nodes are skipped), # nodes in the Sq tree:0
+Moved steps = 1, merged vectors = 0
+# vectors:0, including must-gen nodes:0
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:702
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/beforechange/13315317899132704340075325~1.java
+Line range used: All [0, 0]
+# basic vectors:17
+Total nodes > 779 (some children of atomic nodes are skipped), # nodes in the Sq tree:292
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/28062010662927285956053339407386.java
+Moved steps = 144, merged vectors = 72
+# vectors:89, including must-gen nodes:17
+Merging parameters: 50, 2, 3
+syntax error: 533.34
+syntax error: 573.32
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2610
+Line range used: All [0, 0]
+# basic vectors:74
+Total nodes > 4508 (some children of atomic nodes are skipped), # nodes in the Sq tree:1641
+Moved steps = 581, merged vectors = 291
+# vectors:318, including must-gen nodes:27
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/51728192437081109896552.java
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:708
+Line range used: All [0, 0]
+# basic vectors:17
+Total nodes > 784 (some children of atomic nodes are skipped), # nodes in the Sq tree:294
+Line range used: All [0, 0]
+Line range used: All [0, 0]
+# basic vectors:9
+# basic vectors:30
+Total nodes > 3025 (some children of atomic nodes are skipped), # nodes in the Sq tree:1174
+Moved steps = 144, merged vectors = 72
+# vectors:89, including must-gen nodes:17
+Moved steps = 776, merged vectors = 388
+# vectors:462, including must-gen nodes:74
+Merging parameters: 50, 2, 3
+syntax error: 41.49
+Total nodes > 14853 (some children of atomic nodes are skipped), # nodes in the Sq tree:6928
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1523
+Line range used: All [0, 0]
+# basic vectors:22
+Total nodes > 1907 (some children of atomic nodes are skipped), # nodes in the Sq tree:705
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/05027329385147313701041485940.java
+Moved steps = 2967, merged vectors = 1484
+# vectors:1744, including must-gen nodes:260
+Moved steps = 587, merged vectors = 294
+# vectors:324, including must-gen nodes:30
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/424730925830266363804277782.java
+Merging parameters: 50, 2, 3
+Moved steps = 1634, merged vectors = 817
+# vectors:874, including must-gen nodes:57
+typeCount before init() = 299
+typeCount after init() = 299
+Moved steps = 360, merged vectors = 180
+# vectors:202, including must-gen nodes:22
+Merging parameters: 50, 2, 3
+Total counted terminals:5700
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/22.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/246806033422458492355592.java
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:0
+Line range used: All [0, 0]
+# basic vectors:0
+Total nodes > 2 (some children of atomic nodes are skipped), # nodes in the Sq tree:0
+Moved steps = 1, merged vectors = 0
+# vectors:0, including must-gen nodes:0
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/791798400878271456695423730.java
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:971
+typeCount before init() = 299
+typeCount after init() = 299
+Merging parameters: 50, 2, 3
+Line range used: All [0, 0]
+# basic vectors:12
+Total nodes > 1211 (some children of atomic nodes are skipped), # nodes in the Sq tree:437
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:947
+Total counted terminals:18372
+Moved steps = 196, merged vectors = 98
+# vectors:110, including must-gen nodes:12
+Line range used: All [0, 0]
+# basic vectors:12
+Total nodes > 1192 (some children of atomic nodes are skipped), # nodes in the Sq tree:431
+Moved steps = 194, merged vectors = 97
+# vectors:109, including must-gen nodes:12
+Line range used: All [0, 0]
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/4627348651018634967136842.java
+# basic vectors:76
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/84067043412011964524343607823.java
+Total nodes > 6572 (some children of atomic nodes are skipped), # nodes in the Sq tree:2402
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2166
+Merging parameters: 50, 2, 3
+syntax error: 1.6
+syntax error: 2.46
+syntax error: 14.7
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:9
+Line range used: All [0, 0]
+# basic vectors:0
+Total nodes > 488 (some children of atomic nodes are skipped), # nodes in the Sq tree:239
+Moved steps = 1, merged vectors = 0
+# vectors:0, including must-gen nodes:0
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/60529985896700831656125082408.java
+Line range used: All [0, 0]
+# basic vectors:27
+Total nodes > 2700 (some children of atomic nodes are skipped), # nodes in the Sq tree:1074
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/296336099673219772791748712239.java
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/262558046871375463855711906.java
+Merging parameters: 50, 2, 3
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/257946388786827676188249021.java
+Total counted terminals:2371
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1919
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:4134
+Total counted terminals:1651
+Line range used: All [0, 0]
+# basic vectors:41
+Total nodes > 2198 (some children of atomic nodes are skipped), # nodes in the Sq tree:793
+Moved steps = 1180, merged vectors = 590
+# vectors:666, including must-gen nodes:76
+Line range used: All [0, 0]
+# basic vectors:35
+Total nodes > 2366 (some children of atomic nodes are skipped), # nodes in the Sq tree:833
+Line range used: All [0, 0]
+Moved steps = 374, merged vectors = 187
+# vectors:228, including must-gen nodes:41
+# basic vectors:39
+Total nodes > 2367 (some children of atomic nodes are skipped), # nodes in the Sq tree:902
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/06058120978427830208009.java
+Moved steps = 584, merged vectors = 292
+# vectors:319, including must-gen nodes:27
+Moved steps = 422, merged vectors = 211
+# vectors:246, including must-gen nodes:35
+Moved steps = 429, merged vectors = 215
+# vectors:254, including must-gen nodes:39
+Merging parameters: 50, 2, 3
+Line range used: All [0, 0]
+typeCount before init() = # basic vectors:78
+299
+typeCount after init() = 299
+Total counted terminals:3054
+Total nodes > 4533 (some children of atomic nodes are skipped), # nodes in the Sq tree:1655
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/508401432282753330137584007.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/13315317899132704340075325.java
+Merging parameters: 50, 2, 3
+syntax error: 353.19
+syntax error: 1641.15
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1667
+Moved steps = 786, merged vectors = 393
+# vectors:471, including must-gen nodes:78
+Line range used: All [0, 0]
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/38949622812510958485562.java
+Merging parameters: 50, 2, 3
+syntax error: 537.34
+syntax error: 577.32
+typeCount before init() = 299
+typeCount after init() = 299
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/70173058132281277190023051.java
+Line range used: All [0, 0]
+Total counted terminals:2631
+# basic vectors:64
+# basic vectors:276
+Total nodes > 3099 (some children of atomic nodes are skipped), # nodes in the Sq tree:1200
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/83553954146401254607757649.java
+Merging parameters: 50, 2, 3
+Total nodes > 18274 (some children of atomic nodes are skipped), # nodes in the Sq tree:6327
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:3133
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2191
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:620
+Line range used: All [0, 0]
+# basic vectors:8
+Total nodes > 824 (some children of atomic nodes are skipped), # nodes in the Sq tree:306
+Moved steps = 123, merged vectors = 62
+# vectors:70, including must-gen nodes:8
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/345063579628031491420242.java
+Line range used: All [0, 0]
+# basic vectors:30
+Line range used: All [0, 0]
+Total nodes > 3044 (some children of atomic nodes are skipped), # nodes in the Sq tree:1182
+# basic vectors:9
+Line range used: All [0, 0]
+# basic vectors:35
+Line range used: All [0, 0]
+Total nodes > 2669 (some children of atomic nodes are skipped), # nodes in the Sq tree:1011
+# basic vectors:40
+Merging parameters: 50, 2, 3
+Total nodes > 14953 (some children of atomic nodes are skipped), # nodes in the Sq tree:6975
+typeCount before init() = 299
+typeCount after init() = 299
+Total nodes > 3567 (some children of atomic nodes are skipped), # nodes in the Sq tree:1428
+Total counted terminals:2420
+Moved steps = 618, merged vectors = 309
+# vectors:373, including must-gen nodes:64
+Line range used: All [0, 0]
+# basic vectors:39
+Total nodes > 2378 (some children of atomic nodes are skipped), # nodes in the Sq tree:897
+Moved steps = 592, merged vectors = 296
+# vectors:326, including must-gen nodes:30
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/62897493503032762613996894.java
+Moved steps = 517, merged vectors = 259
+# vectors:294, including must-gen nodes:35
+Moved steps = 420, merged vectors = 210
+# vectors:249, including must-gen nodes:39
+Merging parameters: 50, 2, 3
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/527265970077250303844835.java
+Moved steps = 757, merged vectors = 379
+# vectors:419, including must-gen nodes:40
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:6514
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:385
+Line range used: All [0, 0]
+# basic vectors:2
+Total nodes > 886 (some children of atomic nodes are skipped), # nodes in the Sq tree:315
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/35481682438873255627.java
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/11922970569150396262603.java
+Merging parameters: 50, 2, 3
+Moved steps = 173, merged vectors = 87
+# vectors:89, including must-gen nodes:2
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:3954
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2254
+Moved steps = 3120, merged vectors = 1560
+# vectors:1836, including must-gen nodes:276
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/55345683821941450207639.java
+Line range used: All [0, 0]
+Merging parameters: 50, 2, 3
+# basic vectors:101
+typeCount before init() = 299
+typeCount after init() = 299
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/95141501822815686031424822.java
+Total nodes > 7409 (some children of atomic nodes are skipped), # nodes in the Sq tree:2720
+Line range used: All [0, 0]
+# basic vectors:22
+Total nodes > 2703 (some children of atomic nodes are skipped), # nodes in the Sq tree:1081
+Total counted terminals:6355
+Merging parameters: 50, 2, 3
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:1564
+Line range used: All [0, 0]
+# basic vectors:9
+Total nodes > 1840 (some children of atomic nodes are skipped), # nodes in the Sq tree:747
+Line range used: All [0, 0]
+# basic vectors:63
+Total nodes > 4611 (some children of atomic nodes are skipped), # nodes in the Sq tree:1771
+Parsing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/afterchange/17939894267864697469882624839.java
+Merging parameters: 50, 2, 3
+Moved steps = 546, merged vectors = 273
+# vectors:295, including must-gen nodes:22
+typeCount before init() = 299
+typeCount after init() = 299
+Total counted terminals:2970
+Line range used: All [0, 0]
+# basic vectors:57
+Moved steps = 1273, merged vectors = 637
+# vectors:738, including must-gen nodes:101
+Moved steps = 422, merged vectors = 211
+# vectors:220, including must-gen nodes:9
+Total nodes > 8335 (some children of atomic nodes are skipped), # nodes in the Sq tree:3125
+Line range used: All [0, 0]
+# basic vectors:43
+Total nodes > 3663 (some children of atomic nodes are skipped), # nodes in the Sq tree:1446
+Moved steps = 916, merged vectors = 458
+# vectors:521, including must-gen nodes:63
+Moved steps = 781, merged vectors = 391
+# vectors:434, including must-gen nodes:43
+Moved steps = 1633, merged vectors = 817
+# vectors:874, including must-gen nodes:57
+Moved steps = 713, merged vectors = 357
+# vectors:366, including must-gen nodes:9
+Moved steps = 713, merged vectors = 357
+# vectors:366, including must-gen nodes:9

@@ -1,0 +1,6 @@
+grouping: /home/shuaili/charvector/trainingset/2008-07-09-2008-09-19/VECTOR/vdb_50_2 with distance=1.581139...Total 6405 vectors read in; 9882 vectors dispatched into 123 ranges (actual groups may be many fewer).
+
+real	0m0.053s
+user	0m0.016s
+sys	0m0.032s
+Done grouping 50 2 1.581139. See groups in /home/shuaili/charvector/trainingset/2008-07-09-2008-09-19/VECTOR/vdb_50_2_g[0-9]*_1.581139_50*

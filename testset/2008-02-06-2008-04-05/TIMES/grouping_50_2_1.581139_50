@@ -1,0 +1,18 @@
+grouping: /home/shuaili/charvector/testset/2008-02-06-2008-04-05/VECTOR/vdb_50_2 with distance=1.581139...Total 20178 vectors read in; 31027 vectors dispatched into 123 ranges (actual groups may be many fewer).
+
+real	0m0.158s
+user	0m0.088s
+sys	0m0.064s
+Done grouping 50 2 1.581139. See groups in /home/shuaili/charvector/testset/2008-02-06-2008-04-05/VECTOR/vdb_50_2_g[0-9]*_1.581139_50*
+grouping: /home/shuaili/charvector/testset/2008-02-06-2008-04-05/VECTOR/vdb_50_2 with distance=1.581139...Total 20178 vectors read in; 31027 vectors dispatched into 123 ranges (actual groups may be many fewer).
+
+real	0m0.151s
+user	0m0.080s
+sys	0m0.064s
+Done grouping 50 2 1.581139. See groups in /home/shuaili/charvector/testset/2008-02-06-2008-04-05/VECTOR/vdb_50_2_g[0-9]*_1.581139_50*
+grouping: /home/shuaili/charvector/testset/2008-02-06-2008-04-05/VECTOR/vdb_50_2 with distance=1.581139...Total 20178 vectors read in; 31027 vectors dispatched into 123 ranges (actual groups may be many fewer).
+
+real	0m0.156s
+user	0m0.064s
+sys	0m0.084s
+Done grouping 50 2 1.581139. See groups in /home/shuaili/charvector/testset/2008-02-06-2008-04-05/VECTOR/vdb_50_2_g[0-9]*_1.581139_50*

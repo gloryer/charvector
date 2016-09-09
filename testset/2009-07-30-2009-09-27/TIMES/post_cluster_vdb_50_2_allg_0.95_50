@@ -1,0 +1,5 @@
+Post processing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/CLUSTER/cluster_vdb_50_2_allg_0.95_50 ...
+real	0m4.911s
+user	0m4.904s
+sys	0m0.004s
+Done post-processing /home/shuaili/charvector/testset/2009-07-30-2009-09-27/CLUSTER/cluster_vdb_50_2_allg_0.95_50. Log: /home/shuaili/charvector/testset/2009-07-30-2009-09-27/TIMES/post_cluster_vdb_50_2_allg_0.95_50

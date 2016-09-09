@@ -1,0 +1,130 @@
+Clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000' 2.75681 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 2.75681 -M 20000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000 -c -p /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000.param  >  /home/shuaili/charvector/testset/2008-10-03-2008-12-01/CLUSTER/cluster_vdb_50_2_g7_1.581139_50_100000
+Warning: output all clones. Takes more time...
+Warning: will compute parameters
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000.param):
+N radii = 1, nPoints = 4151
+R
+2.756809950
+Success probability
+0.899999976
+Dimension
+299
+R^2
+7.600001335
+Use <u> functions
+1
+k
+16
+m [# independent tuples of LSH functions]
+22
+L
+231
+W
+4.000000000
+T
+4151
+typeHT
+3
+
+real	0m5.306s
+user	0m5.244s
+sys	0m0.060s
+Done clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000' 2.75681. Log: /home/shuaili/charvector/testset/2008-10-03-2008-12-01/TIMES/cluster_vdb_50_2_g7_1.581139_50_100000
+Clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000' 2.75681 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 2.75681 -M 20000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000 -p /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000.param  >  /home/shuaili/charvector/testset/2008-10-03-2008-12-01/CLUSTER/cluster_vdb_50_2_g7_1.581139_50_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000.param):
+N radii = 1, nPoints = 4151
+R
+2.756809950
+Success probability
+0.899999976
+Dimension
+299
+R^2
+7.600001335
+Use <u> functions
+1
+k
+16
+m [# independent tuples of LSH functions]
+22
+L
+231
+W
+4.000000000
+T
+4151
+typeHT
+3
+
+real	0m0.425s
+user	0m0.408s
+sys	0m0.000s
+Done clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000' 2.75681. Log: /home/shuaili/charvector/testset/2008-10-03-2008-12-01/TIMES/cluster_vdb_50_2_g7_1.581139_50_100000
+Clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000' 2.75681 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 2.75681 -M 20000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000 -c -p /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000.param  >  /home/shuaili/charvector/testset/2008-10-03-2008-12-01/CLUSTER/cluster_vdb_50_2_g7_1.581139_50_100000
+Warning: output all clones. Takes more time...
+Warning: will compute parameters
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000.param):
+N radii = 1, nPoints = 4151
+R
+2.756809950
+Success probability
+0.899999976
+Dimension
+299
+R^2
+7.600001335
+Use <u> functions
+1
+k
+16
+m [# independent tuples of LSH functions]
+22
+L
+231
+W
+4.000000000
+T
+4151
+typeHT
+3
+
+real	0m5.332s
+user	0m5.284s
+sys	0m0.044s
+Done clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000' 2.75681. Log: /home/shuaili/charvector/testset/2008-10-03-2008-12-01/TIMES/cluster_vdb_50_2_g7_1.581139_50_100000
+Clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000' 2.75681 ...
+/home/shuaili/Deckard/src/lsh/bin/enumBuckets -R 2.75681 -M 20000000 -b 2 -A -f /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000 -p /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000.param  >  /home/shuaili/charvector/testset/2008-10-03-2008-12-01/CLUSTER/cluster_vdb_50_2_g7_1.581139_50_100000
+Warning: output all clones. Takes more time...
+Using the following R-NN DS parameters (from /home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000.param):
+N radii = 1, nPoints = 4151
+R
+2.756809950
+Success probability
+0.899999976
+Dimension
+299
+R^2
+7.600001335
+Use <u> functions
+1
+k
+16
+m [# independent tuples of LSH functions]
+22
+L
+231
+W
+4.000000000
+T
+4151
+typeHT
+3
+
+real	0m0.408s
+user	0m0.404s
+sys	0m0.000s
+Done clustering '/home/shuaili/charvector/testset/2008-10-03-2008-12-01/VECTOR/vdb_50_2_g7_1.581139_50_100000' 2.75681. Log: /home/shuaili/charvector/testset/2008-10-03-2008-12-01/TIMES/cluster_vdb_50_2_g7_1.581139_50_100000
